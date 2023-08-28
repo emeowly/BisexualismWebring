@@ -8,7 +8,7 @@
 //the full URLs of all the sites in the ring
 var sites = [
     'https://emeowly.gay',
-    'http://127.0.0.1:3000',
+    'https://bisexualism.emeowly.gay',
 ];
 
 //the name of the ring
