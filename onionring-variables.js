@@ -7,8 +7,8 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-    'https://emeowly.gay',
     'https://bisexualism.emeowly.gay',
+    'https://emeowly.gay',
     'https://pinkvampyr.leprd.space'
 ];
 
