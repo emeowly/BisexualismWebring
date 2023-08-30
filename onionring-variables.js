@@ -9,6 +9,7 @@
 var sites = [
     'https://emeowly.gay',
     'https://bisexualism.emeowly.gay',
+    'https://pinkvampyr.leprd.space'
 ];
 
 //the name of the ring
