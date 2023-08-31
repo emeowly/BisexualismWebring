@@ -10,7 +10,10 @@ var sites = [
     'https://bisexualism.emeowly.gay',
     'https://emeowly.gay',
     'https://pinkvampyr.leprd.space',
-    'https://diffydude.neocities.org'
+    'https://diffydude.neocities.org',
+    'https://macaque.moe',
+    'https://sugarforbrains.neocities.org',
+    'https://shinyexe.neocities.org',
 ];
 
 //the name of the ring
