@@ -14,6 +14,7 @@ var sites = [
     'https://macaque.moe',
     'https://sugarforbrains.neocities.org',
     'https://shinyexe.neocities.org',
+    'https://jeji.neocities.org',
 ];
 
 //the name of the ring
