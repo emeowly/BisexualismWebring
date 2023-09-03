@@ -15,6 +15,9 @@ var sites = [
     'https://sugarforbrains.neocities.org',
     'https://shinyexe.neocities.org',
     'https://jeji.neocities.org',
+    'https://cyberneticdryad.neocities.org',
+    'https://fatgrrlz.neocities.org',
+    'https://freekittie.neocities.org'
 ];
 
 //the name of the ring
