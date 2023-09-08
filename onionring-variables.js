@@ -12,6 +12,7 @@ var sites = [
     'https://pinkvampyr.leprd.space',
     'https://diffydude.neocities.org',
     'https://macaque.moe',
+    'https://sunwukong.neocities.org/',
     'https://sugarforbrains.neocities.org',
     'https://shinyexe.neocities.org',
     'https://jeji.neocities.org',
