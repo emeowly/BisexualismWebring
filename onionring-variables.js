@@ -18,7 +18,9 @@ var sites = [
     'https://jeji.neocities.org',
     'https://cyberneticdryad.neocities.org',
     'https://fatgrrlz.neocities.org',
-    'https://freekittie.neocities.org'
+    'https://freekittie.neocities.org',
+    'https://transrats.neocities.org/',
+    'https://debtdeath.neocities.org/',
 ];
 
 //the name of the ring
