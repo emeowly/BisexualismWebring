@@ -21,6 +21,8 @@ var sites = [
     'https://freekittie.neocities.org',
     'https://transrats.neocities.org/',
     'https://debtdeath.neocities.org/',
+    'https://s1m0n099.neocities.org/',
+    'https://groundedwren.com/',
 ];
 
 //the name of the ring
