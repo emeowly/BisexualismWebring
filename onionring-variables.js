@@ -23,8 +23,9 @@ var sites = [
     'https://debtdeath.neocities.org/',
     'https://s1m0n099.neocities.org/',
     'https://groundedwren.com/',
-    'https://mizuki.world/'
-    
+    'https://mizuki.world/',
+    'https://whiona.me/',
+    'https://asteromorph.neocities.org/'
 ];
 
 //the name of the ring
