@@ -25,7 +25,17 @@ var sites = [
     'https://groundedwren.com/',
     'https://mizuki.world/',
     'https://whiona.me/',
-    'https://asteromorph.neocities.org/'
+    'https://asteromorph.neocities.org/',
+    'https://scrapes-and-bruises.neocities.org',
+    'https://colortraks.net',
+    'https://buntsukim.neocities.org',
+    'https://rigor-mortis.neocities.org',
+    'https://aribluejeans.neocities.org/',
+    'https://mormoroi.com/',
+    'https://wrender.neocities.org/',
+    'https://butch-barks.neocities.org/',
+    '',
+    ''
 ];
 
 //the name of the ring
