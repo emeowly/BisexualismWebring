@@ -33,7 +33,8 @@ var sites = [
     'https://aribluejeans.neocities.org/',
     'https://mormoroi.com/',
     'https://wrender.neocities.org/',
-    'https://butch-barks.neocities.org/'
+    'https://butch-barks.neocities.org/',
+    'https://coeurl.neocities.org/'
 ];
 
 //the name of the ring
