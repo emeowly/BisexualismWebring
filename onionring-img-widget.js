@@ -46,10 +46,10 @@ else {
 
   //this is the code that displays the widget - EDIT THIS if you want to change the structure
   tag.insertAdjacentHTML('afterbegin', `
-  <table style="text-align:center;margin: 0 auto;">
+  <table style="text-align:center;margin: 0 auto;font-size:0px;">
     <tr>
       <td class='webring-prev'><a href='${sites[previousIndex]}'><img src="https://emeowly.github.io/bi/assets/left.gif"></a></td>
-      <td class='webring-info' style='font-size: 0em;'><a href="${indexPage}"><img src="https://emeowly.github.io/bi/assets/index.gif"></a></br>
+      <td class='webring-info'><a href="${indexPage}"><img src="https://emeowly.github.io/bi/assets/index.gif"></a></br>
       <span class='webring-links'>
         ${randomText}</span>
       <td class='webring-next'><a href='${sites[nextIndex]}'><img src="https://emeowly.github.io/bi/assets/right.gif"></a></td>
