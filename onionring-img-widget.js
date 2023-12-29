@@ -49,7 +49,7 @@ else {
   <table style="text-align:center;margin: 0 auto;">
     <tr>
       <td class='webring-prev'><a href='${sites[previousIndex]}'><img src="https://emeowly.github.io/bi/assets/left.gif"></a></td>
-      <td class='webring-info'><a href="${indexPage}"><img src="https://emeowly.github.io/bi/assets/index.gif"></a></br>
+      <td class='webring-info' style='font-size: 0em;'><a href="${indexPage}"><img src="https://emeowly.github.io/bi/assets/index.gif"></a></br>
       <span class='webring-links'>
         ${randomText}</span>
       <td class='webring-next'><a href='${sites[nextIndex]}'><img src="https://emeowly.github.io/bi/assets/right.gif"></a></td>
