@@ -265,6 +265,7 @@ var sites = [
     'https://coeurl.neocities.org/',
     'https://liliyoa.neocities.org/',
     'https://tahimik.com/',
+    'https://exlitry.world/',
 ];
 
 
