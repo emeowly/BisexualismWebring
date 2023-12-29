@@ -235,7 +235,6 @@ var mainObj = [
 ];
 
 var sites = [
-    'http://127.0.0.1:3000',
     'https://bisexualism.emeowly.gay',
     'https://emeowly.gay',
     'https://pinkvampyr.leprd.space',
