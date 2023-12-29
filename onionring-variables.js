@@ -64,13 +64,6 @@ var mainObj = [
     },
     
     {
-        name: "Jeji",
-        website: "jeji.neocities.org",
-        desc: "I make cool and chaotic stuff.",
-        button: "jeji.png"
-    },
-    
-    {
         name: "Dryad",
         website: "cyberneticdryad.neocities.org",
         desc: "my cozy home on the internet! come in and have some tea and a snack. =3",
@@ -162,13 +155,6 @@ var mainObj = [
     },
     
     {
-        name: "Christian",
-        website: "rigor-mortis.neocities.org",
-        desc: "a deadbeat with too much free time",
-        button: "ph.png"
-    },
-    
-    {
         name: "Ari's Garden",
         website: "aribluejeans.neocities.org",
         desc: "Personal website where I keep track of the things that I enjoy as a reminder to myself that I do, in fact, still enjoy things",
@@ -243,7 +229,6 @@ var sites = [
     'https://sunwukong.neocities.org/',
     'https://sugarforbrains.neocities.org',
     'https://shinyexe.neocities.org',
-    'https://jeji.neocities.org',
     'https://cyberneticdryad.neocities.org',
     'https://fatgrrlz.neocities.org',
     'https://freekittie.neocities.org',
@@ -257,7 +242,6 @@ var sites = [
     'https://scrapes-and-bruises.neocities.org',
     'https://colortraks.net',
     'https://buntsukim.neocities.org',
-    'https://rigor-mortis.neocities.org',
     'https://aribluejeans.neocities.org/',
     'https://mormoroi.com/',
     'https://wrender.neocities.org/',
