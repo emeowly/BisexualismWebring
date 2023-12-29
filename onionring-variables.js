@@ -264,6 +264,7 @@ var sites = [
     'https://butch-barks.neocities.org/',
     'https://coeurl.neocities.org/',
     'https://liliyoa.neocities.org/',
+    'https://bonics.neocities.org/',
     'https://tahimik.com/',
     'https://exlitry.world/',
 ];
