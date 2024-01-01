@@ -48,11 +48,11 @@ else {
   tag.insertAdjacentHTML('afterbegin', `
   <table style="text-align:center;margin: 0 auto;font-size:0px;">
     <tr>
-      <td class='webring-prev'><a href='${sites[previousIndex]}'><img src="https://emeowly.github.io/bi/assets/left.gif"></a></td>
-      <td class='webring-info'><a href="${indexPage}"><img src="https://emeowly.github.io/bi/assets/index.gif"></a></br>
+      <td class='webring-prev'><a href='${sites[previousIndex]}'><img src="https://emeowly.github.io/bi/assets/left.gif" alt="pink dripping left arrow"></a></td>
+      <td class='webring-info'><a href="${indexPage}"><img src="https://emeowly.github.io/bi/assets/index.gif" alt="black button with pink purple and blue dripping border that says bisexualism webring"></a></br>
       <span class='webring-links'>
         ${randomText}</span>
-      <td class='webring-next'><a href='${sites[nextIndex]}'><img src="https://emeowly.github.io/bi/assets/right.gif"></a></td>
+      <td class='webring-next'><a href='${sites[nextIndex]}'><img src="https://emeowly.github.io/bi/assets/right.gif" alt="blue dripping right arrow"></a></td>
     </tr>
   </table>
   `);
