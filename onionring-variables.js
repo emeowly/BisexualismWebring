@@ -221,7 +221,7 @@ var mainObj = [
         name: "alexandra",
         website: "xandra.cc",
         desc: "a personal website dedicated to the interests and writings of its curator",
-        button: "exlitry-world.gif",
+        button: "xandra.png",
     },
     
     
