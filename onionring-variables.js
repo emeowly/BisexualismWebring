@@ -217,6 +217,13 @@ var mainObj = [
         button: "exlitry-world.gif",
     },
     
+    {
+        name: "alexandra",
+        website: "xandra.cc",
+        desc: "a personal website dedicated to the interests and writings of its curator",
+        button: "exlitry-world.gif",
+    },
+    
     
 ];
 
@@ -251,6 +258,7 @@ var sites = [
     'https://bonics.neocities.org/',
     'https://tahimik.com/',
     'https://exlitry.world/',
+    'https://xandra.cc/',
 ];
 
 
