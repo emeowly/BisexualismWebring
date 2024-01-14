@@ -224,6 +224,27 @@ var mainObj = [
         button: "xandra.png",
     },
     
+    {
+        name: "Lillith",
+        website: "hell-mouth.neocities.org",
+        desc: "A personal website with lots of medieval art. I also post some of my sewing, pictures of cats, and other things I like.",
+        button: "hell-mouth.gif",
+    },
+    
+    {
+        name: "ten",
+        website: "10kph.neocities.org",
+        desc: "a personal webspace where i share my interests, thoughts, and projects!",
+        button: "10kph.png",
+    },
+    
+    {
+        name: "siph",
+        website: "siph.neocities.org",
+        desc: "I am a non binary bisexual 16 year old. My website is relatively new.",
+        button: "siph.gif",
+    },
+    
     
 ];
 
@@ -259,6 +280,9 @@ var sites = [
     'https://tahimik.com/',
     'https://exlitry.world/',
     'https://xandra.cc/',
+    'https://hell-mouth.neocities.org/',
+    'https://10kph.neocities.org/',
+    'https://siph.neocities.org/',
 ];
 
 
