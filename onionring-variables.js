@@ -245,6 +245,27 @@ var mainObj = [
         button: "siph.gif",
     },
     
+    {
+        name: "angel",
+        website: "cyberangel.club",
+        desc: "a personal site that i use to improve my coding skills as well as balance my creativity and accessibility. doubles as blog :)",
+        button: "cyberangel.gif",
+    },
+    
+    {
+        name: "beatrix",
+        website: "championbeatrix.neocities.org",
+        desc: "auto-archival project/personal site by a bisexual girl who loves to talk",
+        button: "ph.png",
+    },
+    
+    {
+        name: "LonelyJuly",
+        website: "lonelyjuly.online",
+        desc: "Personal website of LonelyJuly",
+        button: "lonelyjuly.gif",
+    },
+    
     
 ];
 
@@ -283,6 +304,9 @@ var sites = [
     'https://hell-mouth.neocities.org/',
     'https://10kph.neocities.org/',
     'https://siph.neocities.org/',
+    'https://cyberangel.club/',
+    'https://championbeatrix.neocities.org/',
+    'https://lonelyjuly.online/',
 ];
 
 
