@@ -8,7 +8,7 @@
 //the full URLs of all the sites in the ring
 var mainObj = [
     {
-        name: "bisexualism ",
+        name: "bisexualism",
         website: "bisexualism.neocities.org",
         desc: "the bisexualism webring!",
         button: "bisexualismwebring.gif"
@@ -289,14 +289,14 @@ var mainObj = [
     
     {
         name: "milky",
-        website: "https://milkyway.moe",
+        website: "milkyway.moe",
         desc: "website created by milky in their free time. kinda wacky silly",
         button: "milkywaymoe.gif",
     },
     
     {
         name: "alina",
-        website: "https://coffinsleeper.neocities.org/",
+        website: "coffinsleeper.neocities.org",
         desc: "a small website for me, music, and vampires",
         button: "coffinsleeper.png",
     },
