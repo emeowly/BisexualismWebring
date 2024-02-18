@@ -9,7 +9,7 @@
 
 
 var sites = [
-    'https://bisexualism.neocities.org',
+    'https://bisexualism.emeowly.gay',
     'https://emeowly.gay',
     'https://pinkvampyr.leprd.space',
     'https://diffydude.neocities.org',
@@ -56,7 +56,7 @@ var sites = [
 var mainObj = [
     {
         name: "bisexualism",
-        website: "bisexualism.neocities.org",
+        website: "bisexualism.emeowly.gay",
         desc: "the bisexualism webring!",
         button: "bisexualismwebring.gif"
     },
