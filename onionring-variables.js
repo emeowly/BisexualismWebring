@@ -305,7 +305,7 @@ var mainObj = [
 ];
 
 var sites = [
-    'https://bisexualism.emeowly.gay',
+    'https://bisexualism.neocities.org',
     'https://emeowly.gay',
     'https://pinkvampyr.leprd.space',
     'https://diffydude.neocities.org',
@@ -342,6 +342,12 @@ var sites = [
     'https://cyberangel.club/',
     'https://championbeatrix.neocities.org/',
     'https://lonelyjuly.online/',
+
+    'https://imaginarykarin.com/',
+    'https://bartkk.xyz/',
+    'https://ranmagender.com/',
+    'https://milkyway.moe/',
+    'https://coffinsleeper.neocities.org/',
 ];
 
 
