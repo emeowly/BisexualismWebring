@@ -342,7 +342,6 @@ var sites = [
     'https://cyberangel.club/',
     'https://championbeatrix.neocities.org/',
     'https://lonelyjuly.online/',
-
     'https://imaginarykarin.com/',
     'https://bartkk.xyz/',
     'https://ranmagender.com/',
