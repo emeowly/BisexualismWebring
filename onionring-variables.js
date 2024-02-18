@@ -9,7 +9,7 @@
 var mainObj = [
     {
         name: "bisexualism",
-        website: "bisexualism.neocities.org",
+        website: "bisexualism.ne ocities.org",
         desc: "the bisexualism webring!",
         button: "bisexualismwebring.gif"
     },
