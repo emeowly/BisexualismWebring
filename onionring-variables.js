@@ -9,7 +9,7 @@
 var mainObj = [
     {
         name: "bisexualism ",
-        website: "bisexualism.emeowly.gay",
+        website: "bisexualism.neocities.org",
         desc: "the bisexualism webring!",
         button: "bisexualismwebring.gif"
     },
@@ -264,6 +264,41 @@ var mainObj = [
         website: "lonelyjuly.online",
         desc: "Personal website of LonelyJuly",
         button: "lonelyjuly.gif",
+    },
+    
+    {
+        name: "Karin",
+        website: "https://imaginarykarin.com/",
+        desc: "Personal blog and art gallery. Mostly revolves around animals, Scandinavian nature, and fantasy nerdery.",
+        button: "imaginarykarin.jpg",
+    },
+    
+    {
+        name: "zack",
+        website: "https://bartkk.xyz/",
+        desc: "Personal website of Zack The Raccoon :3",
+        button: "bartkk.gif",
+    },
+    
+    {
+        name: "Sasha Henriksen",
+        website: "https://ranmagender.com/",
+        desc: "A personal site of someone rather enthusiastic about a lot of things. A bunker to escape web 3.0 or whatever its being spun as.",
+        button: "ranmagender.png",
+    },
+    
+    {
+        name: "milky",
+        website: "https://milkyway.moe",
+        desc: "website created by milky in their free time. kinda wacky silly",
+        button: "milkywaymoe.gif",
+    },
+    
+    {
+        name: "alina",
+        website: "https://coffinsleeper.neocities.org/",
+        desc: "a small website for me, music, and vampires",
+        button: "coffinsleeper.png",
     },
     
     
