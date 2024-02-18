@@ -6,7 +6,7 @@
 //this file contains the stuff you edit to set up your specific webring
 
 //the full URLs of all the sites in the ring
-var members = [
+var mainObj = [
     {
         name: "bisexualism",
         website: "bisexualism.neocities.org",
@@ -302,6 +302,51 @@ var members = [
     },
     
     
+];
+
+var sites = [
+    'https://bisexualism.neocities.org',
+    'https://emeowly.gay',
+    'https://pinkvampyr.leprd.space',
+    'https://diffydude.neocities.org',
+    'https://macaque.moe',
+    'https://sunwukong.neocities.org/',
+    'https://sugarforbrains.neocities.org',
+    'https://shinyexe.neocities.org',
+    'https://cyberneticdryad.neocities.org',
+    'https://fatgrrlz.neocities.org',
+    'https://freekittie.neocities.org',
+    'https://transrats.neocities.org/',
+    'https://debtdeath.neocities.org/',
+    'https://s1m0n099.neocities.org/',
+    'https://groundedwren.com/',
+    'https://mizuki.world/',
+    'https://whiona.me/',
+    'https://asteromorph.neocities.org/',
+    'https://scrapes-and-bruises.neocities.org',
+    'https://colortraks.net',
+    'https://buntsukim.neocities.org',
+    'https://aribluejeans.neocities.org/',
+    'https://mormoroi.com/',
+    'https://wrender.neocities.org/',
+    'https://butch-barks.neocities.org/',
+    'https://coeurl.neocities.org/',
+    'https://liliyoa.neocities.org/',
+    'https://bonics.neocities.org/',
+    'https://tahimik.com/',
+    'https://exlitry.world/',
+    'https://xandra.cc/',
+    'https://hell-mouth.neocities.org/',
+    'https://10kph.neocities.org/',
+    'https://siph.neocities.org/',
+    'https://cyberangel.club/',
+    'https://championbeatrix.neocities.org/',
+    'https://lonelyjuly.online/',
+    'https://imaginarykarin.com/',
+    'https://bartkk.xyz/',
+    'https://ranmagender.com/',
+    'https://milkyway.moe/',
+    'https://coffinsleeper.neocities.org/',
 ];
 
 
