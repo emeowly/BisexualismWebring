@@ -256,7 +256,7 @@ var mainObj = [
         name: "beatrix",
         website: "championbeatrix.neocities.org",
         desc: "auto-archival project/personal site by a bisexual girl who loves to talk",
-        button: "ph.png",
+        button: "championbeatrix.gif",
     },
     
     {
