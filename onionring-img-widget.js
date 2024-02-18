@@ -11,15 +11,15 @@ thisSite = window.location.href; //get the url of the site we're currently on
 thisIndex = null;
 
 // go through the site list to see if this site is on it and find its position
-for (i = 0; i < sites.length; i++) {
-  if (thisSite.startsWith(sites[i])) { //we use startswith so this will match any subdirectory, users can put the widget on multiple pages
+for (i = 0; i < members[i].website.length; i++) {
+  if (thisSite.startsWith(members[i].website)) { //we use startswith so this will match any subdirectory, users can put the widget on multiple pages
     thisIndex = i;
     break; //when we've found the site, we don't need to search any more, so stop the loop
   }
 }
 
-function randomSite() {
-  otherSites = sites.slice(); //create a copy of the sites list
+function randomSite() { 
+  otherSites = members[i].website.slice(); //create a copy of the sites list
   otherSites.splice(thisIndex, 1); //remove the current site so we don't just land on it again
   randomIndex = Math.floor(Math.random() * otherSites.length);
   location.href = otherSites[randomIndex];
@@ -36,24 +36,20 @@ else {
   //find the 'next' and 'previous' sites in the ring. this code looks complex
   //because it's using a shorthand version of an if-else statement to make sure
   //the first and last sites in the ring join together correctly
-  previousIndex = (thisIndex-1 < 0) ? sites.length-1 : thisIndex-1;
-  nextIndex = (thisIndex+1 >= sites.length) ? 0 : thisIndex+1;
-
-
-  randomText = ""
-  //if you've chosen to include a random button, this builds the link that does that
+  previousIndex = (thisIndex-1 < 0) ? members[i].website.length-1 : thisIndex-1;
+  nextIndex = (thisIndex+1 >= members[i].website.length) ? 0 : thisIndex+1;
 
 
   //this is the code that displays the widget - EDIT THIS if you want to change the structure
   tag.insertAdjacentHTML('afterbegin', `
   <table style="text-align:center;margin: 0 auto;font-size:0px;">
-    <tr>
-      <td class='webring-prev'><a href='${sites[previousIndex]}'><img src="https://emeowly.github.io/bi/assets/left.gif" alt="pink dripping left arrow"></a></td>
-      <td class='webring-info'><a href="${indexPage}"><img src="https://emeowly.github.io/bi/assets/index.gif" alt="black button with pink purple and blue dripping border that says bisexualism webring"></a></br>
-      <span class='webring-links'>
-        ${randomText}</span>
-      <td class='webring-next'><a href='${sites[nextIndex]}'><img src="https://emeowly.github.io/bi/assets/right.gif" alt="blue dripping right arrow"></a></td>
-    </tr>
+  <tr>
+  <td class='webring-prev'><a href='${members[i].website[previousIndex]}'><img src="https://emeowly.github.io/bi/assets/left.gif"></a></td>
+  <td class='webring-info'><a href="${indexPage}"><img src="https://emeowly.github.io/bi/assets/index.gif"></a></br>
+  <span class='webring-links'>
+    ${randomText}</span>
+  <td class='webring-next'><a href='${members[i].website[nextIndex]}'><img src="https://emeowly.github.io/bi/assets/right.gif"></a></td>
+</tr>
   </table>
   `);
 
