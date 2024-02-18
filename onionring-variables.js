@@ -268,21 +268,21 @@ var mainObj = [
     
     {
         name: "Karin",
-        website: "https://imaginarykarin.com/",
+        website: "imaginarykarin.com",
         desc: "Personal blog and art gallery. Mostly revolves around animals, Scandinavian nature, and fantasy nerdery.",
         button: "imaginarykarin.jpg",
     },
     
     {
         name: "zack",
-        website: "https://bartkk.xyz/",
+        website: "bartkk.xyz",
         desc: "Personal website of Zack The Raccoon :3",
         button: "bartkk.gif",
     },
     
     {
         name: "Sasha Henriksen",
-        website: "https://ranmagender.com/",
+        website: "ranmagender.com",
         desc: "A personal site of someone rather enthusiastic about a lot of things. A bunker to escape web 3.0 or whatever its being spun as.",
         button: "ranmagender.png",
     },
