@@ -55,6 +55,18 @@ var sites = [
   "https://loungegalactic.neocities.org/",
   "https://oliscrabwife.neocities.org/",
   "https://nynasunner.space/",
+
+  "https://zj.neocities.org/",
+  "https://chimeramanticore.neocities.org/",
+  "https://pizzacatdelights.neocities.org/",
+  "https://naptime.neocities.org/",
+  "https://doqmeat.com/",
+  "https://succubunnii.neocities.org/",
+  "https://metaparadox.neocities.org/",
+  "https://metmoxie.com/",
+  "https://adilene.net/",
+  "https://sylvanianforest.neocities.org/",
+  "https://harvest-home.neocities.org/",
 ];
 
 var mainObj = [
@@ -385,6 +397,83 @@ var mainObj = [
     website: "nynasunner.space",
     desc: "The personal site of a junior web developer who rambles occasionally and obsesses over mildly obscure things",
     button: "nynasunner.gif",
+  },
+
+  {
+    name: "zj",
+    website: "zj.neocities.org",
+    desc: "personal site where i post my silly lil thoughts and mess around :)",
+    button: "zj.png",
+  },
+
+  {
+    name: "juno",
+    website: "chimeramanticore.neocities.org",
+    desc: "my little webpage! i'm a creative of various types and an avid animatronic enthusiast. just goofin around on neocities :]",
+    button: "chimeramanticore.gif",
+  },
+
+  {
+    name: "Pizzacat Delights",
+    website: "pizzacatdelights.neocities.org",
+    desc: "This is a Hello Kitty-themed website where there's drawings, shrines, essays, cute things and more!",
+    button: "pizzacatdelights.png",
+  },
+
+  {
+    name: "Saren",
+    website: "naptime.neocities.org",
+    desc: "a cozy little abode of a sleepy shaman",
+    button: "naptime.png",
+  },
+
+  {
+    name: "des",
+    website: "doqmeat.com",
+    desc: "a personal website dedicated to my silly little life and the things that i love!",
+    button: "doqmeat.png",
+  },
+
+  {
+    name: "succubunnii",
+    website: "succubunnii.neocities.org",
+    desc: "a demonic bunny vtuber just started to learn how to build a personal webspace to escape social medias!",
+    button: "succubunnii.png",
+  },
+
+  {
+    name: "Olivia",
+    website: "metaparadox.neocities.org",
+    desc: "My little haven of personal website nostalgia with info about my hobbies and history, with lots of free graphics both new and old.",
+    button: "metaparadox.gif",
+  },
+
+  {
+    name: "Moxie",
+    website: "metmoxie.com",
+    desc: "A Musk and Meta-free personal website run by a Millennial who loves to create with code and words.",
+    button: "metmoxie.png",
+  },
+
+  {
+    name: "Adilene",
+    website: "adilene.net",
+    desc: "Hatsune Miku inspired site!",
+    button: "adilene.png",
+  },
+
+  {
+    name: "mei sylvany",
+    website: "sylvanianforest.neocities.org",
+    desc: "The forest is personal proyect, made as a way to have a space in the internet that is truly my own. It is a compilation of my interests, hobbies, art, music, etc.",
+    button: "sylvanianforest.gif",
+  },
+
+  {
+    name: "Kit",
+    website: "harvest-home.neocities.org",
+    desc: "A personal website about music, writing, and whatever else I find interesting",
+    button: "harvest-home.png",
   },
 ];
 
