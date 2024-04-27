@@ -41,7 +41,6 @@ var sites = [
   "https://xandra.cc/",
   "https://hell-mouth.neocities.org/",
   "https://10kph.neocities.org/",
-  "https://siph.neocities.org/",
   "https://cyberangel.club/",
   "https://championbeatrix.neocities.org/",
   "https://lonelyjuly.online/",
@@ -55,7 +54,6 @@ var sites = [
   "https://loungegalactic.neocities.org/",
   "https://oliscrabwife.neocities.org/",
   "https://nynasunner.space/",
-
   "https://zj.neocities.org/",
   "https://chimeramanticore.neocities.org/",
   "https://pizzacatdelights.neocities.org/",
@@ -67,6 +65,10 @@ var sites = [
   "https://adilene.net/",
   "https://sylvanianforest.neocities.org/",
   "https://harvest-home.neocities.org/",
+  "https://galissia.neocities.org/",
+  "https://troy-sucks.neocities.org/",
+  "https://chaoticdreamz.neocities.org/",
+  "https://sonasona.neocities.org/",
 ];
 
 var mainObj = [
@@ -302,13 +304,6 @@ var mainObj = [
   },
 
   {
-    name: "siph",
-    website: "siph.neocities.org",
-    desc: "I am a non binary bisexual 16 year old. My website is relatively new.",
-    button: "siph.gif",
-  },
-
-  {
     name: "angel",
     website: "cyberangel.club",
     desc: "a personal site that i use to improve my coding skills as well as balance my creativity and accessibility. doubles as blog :)",
@@ -417,7 +412,7 @@ var mainObj = [
     name: "Pizzacat Delights",
     website: "pizzacatdelights.neocities.org",
     desc: "This is a Hello Kitty-themed website where there's drawings, shrines, essays, cute things and more!",
-    button: "pizzacatdelights.png",
+    button: "pizzacatdelights.gif",
   },
 
   {
@@ -474,6 +469,34 @@ var mainObj = [
     website: "harvest-home.neocities.org",
     desc: "A personal website about music, writing, and whatever else I find interesting",
     button: "harvest-home.png",
+  },
+
+  {
+    name: "Molly",
+    website: "galissia.neocities.org",
+    desc: "",
+    button: "ph.png",
+  },
+
+  {
+    name: "aiden!",
+    website: "troy-sucks.neocities.org",
+    desc: "silly site with the swag. check out my webcomic! :D",
+    button: "troy-sucks.gif",
+  },
+
+  {
+    name: "Alia",
+    website: "chaoticdreamz.neocities.org",
+    desc: "cool website made by a loser",
+    button: "chaoticdreamz.png",
+  },
+
+  {
+    name: "Sonasona",
+    website: "sonasona.neocities.org",
+    desc: "On my site, I mainly use it as a hub for my art, in-development comic (kinda), my writing works, my simracing schemes, and soon, motorsports shrines :P",
+    button: "sonasona.png",
   },
 ];
 
