@@ -412,7 +412,7 @@ var mainObj = [
     name: "Pizzacat Delights",
     website: "pizzacatdelights.neocities.org",
     desc: "This is a Hello Kitty-themed website where there's drawings, shrines, essays, cute things and more!",
-    button: "pizzacatdelights.gif",
+    button: "pizzacatdelights.png",
   },
 
   {
