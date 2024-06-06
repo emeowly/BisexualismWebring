@@ -554,13 +554,6 @@ var mainObj = [
     desc: "personal website that i started working on as an art portfolio, has expanded to include lots more :)",
     button: "262ravens.png",
   },
-
-  // {
-  //   name: "",
-  //   website: "",
-  //   desc: "",
-  //   button: "",
-  // },
 ];
 
 //the name of the ring
