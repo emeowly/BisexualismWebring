@@ -40,7 +40,7 @@ var sites = [
   "https://exlitry.world/",
   "https://xandra.cc/",
   "https://hell-mouth.neocities.org/",
-  "https://10kph.neocities.org/",
+  "https://karuma.me/",
   "https://cyberangel.club/",
   "https://championbeatrix.neocities.org/",
   "https://lonelyjuly.online/",
@@ -69,6 +69,13 @@ var sites = [
   "https://troy-sucks.neocities.org/",
   "https://chaoticdreamz.neocities.org/",
   "https://sonasona.neocities.org/",
+  "https://emocowboy.neocities.org/",
+  "https://bibliohound.neocities.org/",
+  "https://sidetangent.neocities.org/",
+  "https://whey-isolate.neocities.org/",
+  "https://kanade.nekoweb.org/",
+  "https://sepulchredsacrament.neocities.org/",
+  "https://262ravens.neocities.org/",
 ];
 
 var mainObj = [
@@ -298,7 +305,7 @@ var mainObj = [
 
   {
     name: "ten",
-    website: "10kph.neocities.org",
+    website: "karuma.me",
     desc: "a personal webspace where i share my interests, thoughts, and projects!",
     button: "10kph.png",
   },
@@ -474,8 +481,8 @@ var mainObj = [
   {
     name: "Molly",
     website: "galissia.neocities.org",
-    desc: "",
-    button: "ph.png",
+    desc: "A cozy lil' corner of the internet where I, an AuDHD aromantic bisexual, can let loose and express myself!",
+    button: "galissia.gif",
   },
 
   {
@@ -498,6 +505,62 @@ var mainObj = [
     desc: "On my site, I mainly use it as a hub for my art, in-development comic (kinda), my writing works, my simracing schemes, and soon, motorsports shrines :P",
     button: "sonasona.png",
   },
+
+  {
+    name: "Michael",
+    website: "emocowboy.neocities.org",
+    desc: "the most emo site on the web",
+    button: "emocowboy.gif",
+  },
+
+  {
+    name: "Wildcat",
+    website: "bibliohound.neocities.org",
+    desc: "The personal website of a bisexual writer and OC curator!",
+    button: "bibliohound.png",
+  },
+
+  {
+    name: "Erwin",
+    website: "sidetangent.neocities.org",
+    desc: "Just a little fellow wanting to help the indie net by being apart of a community/ring, spreading new sites to more people :3",
+    button: "sidetangent.gif",
+  },
+
+  {
+    name: "Whey_Isolate",
+    website: "whey-isolate.neocities.org",
+    desc: "Art, writing, photography, and more from New England's favorite autistic bisexual furry twink :3",
+    button: "whey-isolate.png",
+  },
+
+  {
+    name: "kanana",
+    website: "kanade.nekoweb.org",
+    desc: "personal website that's kanade themed",
+    button: "kanade.gif",
+  },
+
+  {
+    name: "harry m",
+    website: "sepulchredsacrament.neocities.org",
+    desc: "silly rambles about stuff no one cares about",
+    button: "sepulchredsacrament.png",
+  },
+
+  {
+    name: "Angee",
+    website: "262ravens.neocities.org",
+    desc: "personal website that i started working on as an art portfolio, has expanded to include lots more :)",
+    button: "262ravens.png",
+  },
+
+  // {
+  //   name: "",
+  //   website: "",
+  //   desc: "",
+  //   button: "",
+  // },
 ];
 
 //the name of the ring
