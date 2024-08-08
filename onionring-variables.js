@@ -104,7 +104,7 @@ var mainObj = [
     name: "diffydude",
     website: "diffydude.neocities.org",
     desc: "Im a bi furry who has joined the old web thingy, and I've been running a personal website for a few months",
-    button: "diffydude.gif",
+    button: "diffydude.png",
   },
 
   {
